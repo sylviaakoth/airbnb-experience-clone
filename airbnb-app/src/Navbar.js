@@ -1,9 +1,9 @@
-import React from "react"
+import React from "react";
 
 function Navbar() {
     return (
         <nav>
-            {/* <img src="../images/airbnb-logo.png" /> */}
+            <h1>This is a Navbar</h1>
         </nav>
     )
 }
